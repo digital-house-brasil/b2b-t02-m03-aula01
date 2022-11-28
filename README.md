@@ -82,7 +82,19 @@
 - Exemplos de Linguagens de Programação
     ![](./exemplos-linguagem-programacao.png)
 
+</details>
 
+<details>
+<summary>O que é o .NET Framework?</summary>
+
+[Documentação](https://learn.microsoft.com/pt-br/dotnet/framework/get-started/)
+
+</details>
+
+<details>
+<summary>O que é o .NET SDK?</summary>
+
+[Documentação](https://learn.microsoft.com/pt-br/dotnet/core/sdk)
 
 </details>
 
